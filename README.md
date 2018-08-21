@@ -3,6 +3,8 @@ A collection of tools for accessing Neo4j graph databases from Apache NiFi.
 
 **_This is alpha quality software and is not currently actively maintained. It is not intended for use in a production environment._**
 
+Install Nifi on MAC/OS
+https://nifi.apache.org/docs/nifi-docs/html/getting-started.html#for-linux-mac-os-x-users
 
 Requires:
 * Nifi version 1.0.0
